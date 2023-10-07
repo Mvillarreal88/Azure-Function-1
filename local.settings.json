@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=weatherappdf;AccountKey=9PsP/8TV6l67bEYjBVTMxgutpKzV+MD/5Y8uXzJyBmdP+ec95ic2R+YeXM6zlrca+PfEitRnn0/Y+AStPi8Vmw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
